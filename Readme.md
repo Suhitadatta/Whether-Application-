@@ -68,14 +68,6 @@ npm test
 npm start
 ```
 
-👤 **Author**
-
-- GitHub: [@virag-ky](https://github.com/virag-ky)
-- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
-- LinkedIn: [virag-kormoczy](https://linkedin.com/in/virag-kormoczy)
-
-## Acknowledgements
-
 ### Icons:
 
 - [Weather icon sets](https://www.figma.com/community/file/972934576657989859)
